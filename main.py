@@ -6,6 +6,8 @@ line 2 says honestly what that analogy maps and what it leaves out.
 
 Deterministic: the text is fixed, there is no randomness, no clock,
 no network and no input. Two runs produce byte-identical output.
+(Bundle guard, added in the bundle session: entry re-verified
+deterministic here — two runs byte-identical, 241 chars, 2 lines.)
 """
 
 import os
